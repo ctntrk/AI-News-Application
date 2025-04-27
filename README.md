@@ -6,6 +6,7 @@ AI News Aggregator Pro is a Python-based web application built with Streamlit. T
 
 https://github.com/user-attachments/assets/5e67dfdc-a83b-4e7c-aeb2-afc03e135fa2
 
+---
 
 ## Demo
 You can try out the application and see it in action by visiting the link below:
@@ -15,9 +16,7 @@ You can try out the application and see it in action by visiting the link below:
 
 ⚠️ Note: Streamlit Cloud deploy may put the app to sleep if it’s not being actively used or if there’s low traffic. 💤
 
-
-
-
+---
 
 
 ## Features
@@ -29,6 +28,8 @@ You can try out the application and see it in action by visiting the link below:
 - **Statistics**: View the number of articles from each selected source.
 - **Mobile-Friendly Design**: Responsive layout for a great user experience across devices.
 
+---
+
 ## Technologies Used
 
 - **Python**: Programming language used to build the app.
@@ -36,7 +37,7 @@ You can try out the application and see it in action by visiting the link below:
 - **Feedparser**: Parses and handles RSS feeds.
 - **BeautifulSoup**: Cleans HTML content for easy reading.
 - **Datetime**: Handles and filters news based on dates.
-
+---
 ## Data Sources
 
 The app fetches news from the following AI-related sources:
@@ -46,7 +47,7 @@ The app fetches news from the following AI-related sources:
 - **Science Daily**
 - **DeepMind Blog**
 - **Berkeley AI Research (BAIR) Blog**
-
+---
 ## Installation
 
 ### Prerequisites
@@ -67,6 +68,7 @@ streamlit run app.py
 
 This will start the app on `http://localhost:8501`.
 
+---
 ## How It Works
 
 1. **Fetching and Caching News**: The app fetches news from selected RSS feeds and caches it for 1 hour to improve performance.
@@ -75,7 +77,7 @@ This will start the app on `http://localhost:8501`.
 4. **Source Selection**: Users can choose which sources to fetch news from.
 5. **Statistics**: The app shows the total number of articles from each selected source.
 6. **Responsive Layout**: The app is designed to be mobile-friendly and adapts to different screen sizes.
-
+---
 
 ## License
 
