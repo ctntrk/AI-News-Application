@@ -35,12 +35,6 @@ def fetch_ai_news(selected_sources, search_query=None):
                 soup = BeautifulSoup(summary, 'html.parser')
                 clean_summary = soup.get_text()
                 
-                # Extract image URL
-                image_url = None
-                if 'media_content' in entry:
-                    image_url = entry.media_content[0]['url'] if entry.media_content else None
-                elif 'enclosures' in entry:
-                    image_url = entry.enclosures[0].href if entry.enclosures else None
                 
                 news_item = {
                     "title": entry.title,
