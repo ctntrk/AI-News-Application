@@ -2,6 +2,11 @@
 
 AI News Aggregator Pro is a Python-based web application built with Streamlit. The app collects real-time news related to Artificial Intelligence (AI) from multiple trusted sources and displays them in a user-friendly format. Users can search for specific keywords, filter news by time range (e.g., the last 7 days), and select from various sources to customize the content they want to read.
 
+## AI News Aggregator Pro Demo Introduction Video
+
+https://github.com/user-attachments/assets/5e67dfdc-a83b-4e7c-aeb2-afc03e135fa2
+
+
 ## Demo
 You can try out the application and see it in action by visiting the link below:
  
@@ -9,6 +14,8 @@ You can try out the application and see it in action by visiting the link below:
 
 
 ⚠️ Note: Streamlit Cloud deploy may put the app to sleep if it’s not being actively used or if there’s low traffic. 💤
+
+
 
 
 
