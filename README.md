@@ -47,6 +47,7 @@ The app fetches news from the following AI-related sources:
 - **Science Daily**
 - **DeepMind Blog**
 - **Berkeley AI Research (BAIR) Blog**
+
 ---
 ## Installation
 
@@ -77,6 +78,13 @@ This will start the app on `http://localhost:8501`.
 4. **Source Selection**: Users can choose which sources to fetch news from.
 5. **Statistics**: The app shows the total number of articles from each selected source.
 6. **Responsive Layout**: The app is designed to be mobile-friendly and adapts to different screen sizes.
+---
+## Artificial Intelligence News App Web Interface
+![Alt text](https://github.com/ctntrk/AI-News-Application/blob/main/Artificial_Intelligence_News_App%20Web_Interface.jpg)
+---
+## News Info
+![Alt text](https://github.com/ctntrk/AI-News-Application/blob/main/News_Info.jpg)
+
 ---
 
 ## License
